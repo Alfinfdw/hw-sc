@@ -8,8 +8,7 @@ RUN apt-get update && \
   wget \
   imagemagick \
   graphicsmagick \
-  webp \
-  mc -y && \
+  webp -y && \
   rm -rf /bin/sh/*
   
 COPY package.json .
