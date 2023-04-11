@@ -30,9 +30,9 @@ global.ownername = 'ᴇxᴏ ʙᴏᴛ' //ubah jadi nama mu, note tanda ' gausah d
 global.botname = 'ᴇxᴏ ʙᴏᴛ' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.footer = 'ᴇxɪ ʙᴏᴛ' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
-global.owner = ['6285740392651'] // ubah aja pake nomor lu
-global.creator = "6281236167286@s.whatsapp.net"
-global.premium = ['6285740392651'] // ubah aja pake nomor lu
+global.owner = ['447971533162'] // ubah aja pake nomor lu
+global.creator = "447971533162@s.whatsapp.net"
+global.premium = ['447971533162'] // ubah aja pake nomor lu
 global.keyopenai = "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"
 global.packname = 'ᴇxᴏ ʙᴏᴛ' // ubah aja
 global.ownerr = ['ᴇxᴏ'] // ubaha aja
